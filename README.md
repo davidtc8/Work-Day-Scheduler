@@ -6,7 +6,7 @@ Inside the "Assets" folder you'll find:
 - CSS
     - CSS File
 - JS
-    - Script in javascript
+    - Script in Javascript
 
 ## Concepts Applied 🧐:
 - [x] HTML 🦴
