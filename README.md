@@ -20,4 +20,3 @@ Inside the "Assets" folder you'll find:
 - [x] Local Storage 🔒
 
 ## Web Page Link 😏
-<a href="https://davidtc8.github.io/JS-Quiz/" target="_blank">Webpage!</a>
